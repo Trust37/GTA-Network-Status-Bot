@@ -1,13 +1,13 @@
 {
   "name": "discordbotnodejs",
-  "version": "1.0.0",
-  "description": "",
+  "version": "2.1.0",
+  "description": "Bot for Discord with Cachet integration",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Trust37 - GTA Network",
+  "license": "MIT",
   "dependencies": {
     "cachet-api": "^1.0.3",
     "discord.js": "^11.0.0",

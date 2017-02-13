@@ -1,0 +1,5 @@
+{
+    "domain" : "https://demo.cachethq.io/api/v1",
+    "value" : "YOUR CACHET TOKEN",
+    "headerOrQueryName" : "X-Cachet-Token"
+}

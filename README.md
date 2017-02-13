@@ -6,3 +6,7 @@ Build with [Discord.js](https://discord.js.org), [discord.js-commando](https://g
 Default Prefix for Discord.js-Commando is:  !
 
 ![!backup](http://puu.sh/u1phM/81d64f7deb.png)
+
+![!set-backup](http://puu.sh/u1pMF/4f1a3de061.png)
+
+![Cachet Report](http://puu.sh/u1pPS/1bfbccd343.png)

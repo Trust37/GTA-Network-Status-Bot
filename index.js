@@ -2,8 +2,9 @@ const Discord = require('discord.js');
 const commando = require('discord.js-commando');
 const Cachet = require('cachet-node').Cachet;
 const bot = new commando.Client();
+const cjson = require('cjson');
 
-const config = require("./config.json");
+const config = cjson.load('./conf/config.json');
 
 bot.registry.registerGroups([
   ['help', 'Help'],

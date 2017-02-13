@@ -5,4 +5,4 @@ Build with [Discord.js](https://discord.js.org), [discord.js-commando](https://g
 
 Default Prefix for Discord.js-Commandi is:  !
 
-![!backup](http://http://puu.sh/u1phM/81d64f7deb.png)
+![!backup](http://puu.sh/u1phM/81d64f7deb.png)

@@ -9,6 +9,7 @@
   "author": "Trust37 - GTA Network",
   "license": "MIT",
   "dependencies": {
+    "cjson": "^0.5.0",
     "cachet-api": "^1.0.3",
     "discord.js": "^11.0.0",
     "discord.js-commando": "^0.8.4"

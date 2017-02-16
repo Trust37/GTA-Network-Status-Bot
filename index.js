@@ -10,6 +10,7 @@ bot.registry.registerGroups([
   ['help', 'Help'],
   ['incident','Create Incident Report'],
   ['status','Set´s the Status for our Components'],
+  ['tracking','Tracks our webservices'],
   ['test','DO NOT USE']
 ])
 

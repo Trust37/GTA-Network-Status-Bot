@@ -26,3 +26,5 @@ Default Help Command: !help
 
 ## Tracking Service
 ![Tracking](http://puu.sh/u5VIV/47e5d49a02.png)
+
+Actually, the bot could create an automated message. But since I'm tracking the Server with another script it's not necessary to create a message with the bot. The message on discord is just an information so everyone in the channel is aware of the issue. 

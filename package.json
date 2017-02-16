@@ -13,5 +13,6 @@
     "cachet-api": "^1.0.3",
     "discord.js": "^11.0.0",
     "discord.js-commando": "^0.8.4"
+    "request": "^2.79.0"
   }
 }

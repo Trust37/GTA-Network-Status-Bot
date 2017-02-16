@@ -12,3 +12,5 @@ Default Help Command: !help
 ![!set-backup](http://puu.sh/u1pMF/4f1a3de061.png)
 
 ![Cachet Report](http://puu.sh/u1pPS/1bfbccd343.png)
+
+![Tracking](http://puu.sh/u5VIV/47e5d49a02.png)

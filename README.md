@@ -11,9 +11,17 @@ Build with
 * [cjson](https://github.com/kof/node-cjson)
 * [request](https://github.com/request/request)
 
+# Install
+```
+npm install --save
+```
+Should be enough. 
+
+# Default Commands
 Default Prefix for Discord.js-Commando is:  !
 
 Default Help Command: !help
+Tracking: !track 1
 
 ## Set Status silent
 ![!backup](http://puu.sh/u1phM/81d64f7deb.png)

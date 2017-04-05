@@ -1,3 +1,16 @@
+# I do not update it public anymore. Maybe somewhat later.
+
+
+
+
+
+
+
+
+
+
+
+
 # GTA-Network-Status-Bot
 a node.js cachet bot for discord
 
